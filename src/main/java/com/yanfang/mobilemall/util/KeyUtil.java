@@ -10,6 +10,7 @@ import java.util.Random;
  */
 public class KeyUtil {
 
+
     //加上synchronized关键字，线程安全
     public static synchronized String createUniqueKey(){
         Random random = new Random();

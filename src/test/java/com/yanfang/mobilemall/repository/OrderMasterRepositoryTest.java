@@ -31,6 +31,9 @@ class OrderMasterRepositoryTest {
         for (OrderMaster orderMaster : list) {
             System.out.println(orderMaster);
         }
+
+        //测试
+        System.out.println("Hello git");
     }
 
     /**
